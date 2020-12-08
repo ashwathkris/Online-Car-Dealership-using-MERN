@@ -1,0 +1,20 @@
+.logo-listing {
+  background-color: white;
+  width: 500px;
+  align-self: center;
+  margin: auto;
+  border-radius: 7px;
+}
+
+.brandshead {
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+  font-family: Century Gothic;
+  color: black;
+}
+
+.img {
+  height: 100px;
+  display: inline-block;
+}
