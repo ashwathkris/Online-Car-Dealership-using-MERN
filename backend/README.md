@@ -1,3 +1,4 @@
+#BACKEND
 To get started with the database,
 (1) Install mongodb and MongoDB compass for easy visualization of the database.
 (2) Create a database called 'Customers' and 2 collections : 'users' and 'cars'.
